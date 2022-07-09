@@ -1,5 +1,5 @@
 # MVVM-RecipeApp
-Kotlin, MVVM, Navigation Component, Hilt, Jetpack Compose, Retrofit2
+Kotlin, MVVM, Navigation Component, Hilt, Jetpack Compose, Coroutine, MutableState, Retrofit2, Glide
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/76838562/173254331-aa79eb39-653b-4a1c-8c65-ad3b337ff368.jpg" width="500">
 
